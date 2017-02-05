@@ -27,7 +27,7 @@ This weekend's episode featured a spoof of the first few weeks of President Trum
 
 https://www.youtube.com/watch?v=pZOF9q5fzfs
 
-Next was a spoof of the daily press briefings with an impersonation of Sean Spicer by Melissa Mcarthy.
+Next was a spoof of the daily press briefings with an impersonation of Sean Spicer by Melissa McCarthy.
 
 https://www.youtube.com/watch?v=noGvAQv4jzE
 
