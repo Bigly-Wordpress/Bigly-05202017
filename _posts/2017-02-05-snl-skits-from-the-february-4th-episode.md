@@ -14,7 +14,8 @@ pf_forward_to_origin:
   - no-forward
 tags: [ ]
 categories:
-  - Uncategorized
+  - Articles
+  - Videos
 ---
 I've been watching the clips from last night's episode of Saturday Night Live, and they look pretty awesome. I was planning on watching the show live, but before I knew it I was checking the time and it was already midnight, and I knew I had probably missed all of the good stuff.
 
