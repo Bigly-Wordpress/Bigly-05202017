@@ -15,7 +15,7 @@ pf_forward_to_origin:
 gr_overridden:
   - "1"
 gr_options:
-  - 'a:3:{s:13:"enable-ribbon";s:4:"Show";s:10:"github-url";s:35:"https://github.com/SenorBigly/Bigly";s:11:"ribbon-type";i:7;}'
+  - 'a:3:{s:13:"enable-ribbon";s:4:"Show";s:10:"github-url";s:108:"https://github.com/SenorBigly/Bigly/blob/master/_posts/2017-02-05-snl-skits-from-the-february-4th-episode.md";s:11:"ribbon-type";i:7;}'
 tags: [ ]
 categories:
   - Articles
