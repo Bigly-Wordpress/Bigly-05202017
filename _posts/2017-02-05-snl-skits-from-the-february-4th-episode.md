@@ -12,6 +12,10 @@ pf_no_feed_alert:
   - "0"
 pf_forward_to_origin:
   - no-forward
+gr_overridden:
+  - "1"
+gr_options:
+  - 'a:3:{s:13:"enable-ribbon";s:4:"Show";s:10:"github-url";s:35:"https://github.com/SenorBigly/Bigly";s:11:"ribbon-type";i:7;}'
 tags: [ ]
 categories:
   - Articles
